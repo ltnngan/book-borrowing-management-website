@@ -21,3 +21,22 @@
 Thumbs.db
 /.vscode/
 
+# Frontend build and dependencies
+/frontend/node_modules/
+/frontend/dist/
+/frontend/build/
+
+# Frontend env and caches
+/frontend/.env
+/frontend/.env.local
+/frontend/.vite/
+/frontend/.cache/
+/frontend/.parcel-cache/
+
+# Frontend logs
+/frontend/npm-debug.log*
+/frontend/*.log
+
+# Frontend uploads (if any)
+/frontend/public/uploads/
+
