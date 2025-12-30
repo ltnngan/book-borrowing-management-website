@@ -1,0 +1,23 @@
+# Ignore Node modules
+/backend/node_modules/
+
+# Ignore environment files
+/backend/.env
+/backend/.env.local
+
+# Ignore uploaded files
+/backend/public/uploads/
+
+# Logs and debug
+/backend/npm-debug.log*
+/backend/*.log
+
+# Coverage and test output
+/backend/coverage/
+/backend/.nyc_output/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+/.vscode/
+
